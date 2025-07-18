@@ -153,5 +153,5 @@ cp -r ~/Library/Developer/Xcode/iOS\ DeviceSupport/ /Volumes/Backup/DeviceSuppor
 
 ---
 
-**最后更新**: 2024年7月
-**适用版本**: Xcode 12+ / iOS 14+
+**最后更新**: 2025年7月
+**适用版本**: Xcode 16+ / iOS 17+
